@@ -1,0 +1,25 @@
+# Quantum_Trading Requirements 
+# Core dependencies
+pandas==2.3.2
+numpy==2.3.2
+matplotlib==3.10.6
+ta==0.11.0
+yfinance==0.2.65
+alpha_vantage==3.0.0
+ccxt==4.5.3
+sqlalchemy==2.0.43
+
+# Supporting libraries
+requests==2.32.5
+beautifulsoup4==4.13.5
+aiohttp==3.12.15
+websockets==15.0.1
+multitasking==0.0.12
+python-dateutil==2.9.0.post0
+pytz==2025.2
+
+# Optional utilities (for experiments / notebooks)
+jupyter==1.1.1
+notebook==7.3.2
+scikit-learn==1.5.2
+
